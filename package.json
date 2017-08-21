@@ -1,0 +1,32 @@
+{
+  "name": "angular-firstapp",
+  "version": "1.0.0",
+  "description": "My first angular app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johanb3k/angular-firstApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johanb3k/angular-firstApp/issues"
+  },
+  "homepage": "https://github.com/Johanb3k/angular-firstApp#readme",
+  "dependencies": {
+    "@angular/common": "^4.3.5",
+    "@angular/compiler": "^4.3.5",
+    "@angular/core": "^4.3.5",
+    "@angular/platform-browser": "^4.3.5",
+    "@angular/platform-browser-dynamic": "^4.3.5",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.4.3",
+    "zone.js": "^0.8.16"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.42"
+  }
+}
